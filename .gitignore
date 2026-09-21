@@ -22,7 +22,6 @@ go.work.sum
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 *~
@@ -76,3 +75,5 @@ bench/run-linux-rest.sh
 internal/indexer/bench_vscode_test.go
 docs/worktree-branch-overlays.md
 docs/specs/
+config.bat
+node_modules
